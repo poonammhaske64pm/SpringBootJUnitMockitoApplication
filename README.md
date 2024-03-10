@@ -1,2 +1,2 @@
 # SpringBootJUnitMockitoApplication
-Building JUnit Mockito Application
+Building SpringBoot Application using JUnit Mockito test cases
